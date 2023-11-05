@@ -1,0 +1,16 @@
+
+h1{
+  text-align: center;
+}
+.product-page{
+  display: grid;
+  gap: 25px;
+  grid-template-columns: 1fr 1fr;
+}
+.main-grid{
+  display: grid;
+  gap: 10px;
+  grid-template-columns: 400px 400px;
+  grid-template-rows: auto;
+  margin-left: 20px;
+}
